@@ -1,5 +1,6 @@
 *.py
 *.tar
 *.png
+*.pt
 MNIST Datasets
 Fast_MRI_Knee
