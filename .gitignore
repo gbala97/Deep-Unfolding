@@ -4,3 +4,4 @@
 *.pt
 MNIST Datasets
 Fast_MRI_Knee
+__pycache__
